@@ -17,3 +17,7 @@ characters.
 
 A player rolls the dice and moves their character. If you land on the same picture as your character
 you can roll again.
+
+## Run the analysis
+
+`python3 nijntje.py`
