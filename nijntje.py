@@ -91,3 +91,5 @@ try:
 
 except KeyboardInterrupt:
     pass
+
+show_stats()
